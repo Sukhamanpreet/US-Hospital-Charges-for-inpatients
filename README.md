@@ -22,4 +22,8 @@ The dataset includes the following columns:
 
 There were more than 100 DRG's or treatment types. After the patient was charged, some of the payment was made by medical insurance provider and the third party insurance provider. The rest was paid by the patient himself.
 
+![image](https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2019/09/fc1d37acec594994a18dcd2fd09910ba/Screen-Shot-2018-07-23-at-10.32.12-PM.png)
+
+
+
 In the analysis, it is found that **Maryland** state is providing efficient health services at cheapest prices as compared to the rest of the states. No matter, what the treatment is. On the other hand, **California** is charging much higher prices to the patient. There is no standard system in the USA responsible for fixing the prices. *There is lack of transparency for the patients in the US healthcare system. There should be a regular body which can keep eye on the hospitals and must fix the prices across the states.*
